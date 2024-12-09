@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bài Kiểm Tra TX4</title>
+    <style>
+        /* Định dạng bảng */
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Họ và tên: ...</h1>
+    
+    <h2>Bài Kiểm Tra TX:4 Tạo Danh Sách và Bảng</h2>
+
+    <h3>Danh sách các môn học</h3>
+    <ol>
+        <li>Toán học</li>
+        <li>Ngữ văn</li>
+        <li>Tin học</li>
+        <li>Sinh học</li>
+    </ol>
+
+    <h3>Bảng thông tin các môn học</h3>
+    <table>
+        <tr>
+            <th>Môn học</th>
+            <th>Số tiết/tuần</th>
+            <th>Giáo viên</th>
+        </tr>
+        <tr>
+            <td>Toán</td>
+            <td>5</td>
+            <td>Nguyễn Văn A</td>
+        </tr>
+        <tr>
+            <td>Ngữ văn</td>
+            <td>4</td>
+            <td>Trần Thị B</td>
+        </tr>
+        <tr>
+            <td>Tin học</td>
+            <td>2</td>
+            <td>Lê Văn C</td>
+        </tr>
+    </table>
+
+    <h3>Những việc cần làm</h3>
+    <ul>
+        <li>Học tập chăm chỉ</li>
+        <li>Tham gia hoạt động ngoại khóa</li>
+        <li>Đọc sách mỗi ngày</li>
+    </ul>
+</body>
+</html>
